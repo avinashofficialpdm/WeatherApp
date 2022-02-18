@@ -3,7 +3,7 @@
     margin-left: 10%;
 }
 #content{
-    color: white;
+    color: rgb(255, 255, 255);
     margin: auto;
 }
 #findButton{
@@ -12,9 +12,14 @@
 
  } 
 body{
-    background-image: url(/images/bg.png);
+    background-image: url("https://www.wallpapertip.com/wmimgs/14-144170_simple-simple-background-png-hd.png");
+    /* height: 100%; */
+    /* width: 100%; */
+    /* background-position: center; */
+    /* background-repeat: no-repeat; */
+    /* background-size: cover;  */
 }
 #head{
-    color: rgb(132, 201, 197);
+    color: rgb(235, 201, 129);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
